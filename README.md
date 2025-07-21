@@ -9,3 +9,7 @@ To provide accurate cost forecasts based on patient chronic score, previous year
 - Exponential growth model calibrated on real-world Type 2 Diabetes cost data (CDC/Medicare).
 - Predicts next-year treatment costs.
 - Risk score and risk level classification.
+  
+### 🚀 How to run locally:
+🔗 Streamlit App:
+https://healthrisk-diabetes-kpnmgyfdf7hidv7klxsmjf.streamlit.app/
